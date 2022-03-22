@@ -6,6 +6,14 @@ public class String_practice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+//		int arr[];
+//		arr = new int[10];
+//		// int arr[] = new int[10];
+//		arr[0] = 10;
+		
+		
+		
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("exit을 입력하면 종료합니다.");
